@@ -1,0 +1,7 @@
+{
+  "name": "hamsafar-rishte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
